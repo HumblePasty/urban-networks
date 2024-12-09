@@ -50,4 +50,4 @@ For the final project, I hope to extent the scope and try to answer the followin
 
   This can be a point or polygon shapefile indicating the location of the households. For example FCC broadband household data:
 
-  ![image-20241121132108593](./README.assets/image-20241121132108593.png)
+  ![image-20241121132108593](./Proposal.assets/image-20241121132108593.png)
